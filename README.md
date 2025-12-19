@@ -1,10 +1,10 @@
-# 📝 Todo App
+# Todo App
 
 A simple and practical Flutter Todo application.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Show a list of tasks (Todos)
 - Navigate to a task detail page
@@ -13,7 +13,7 @@ A simple and practical Flutter Todo application.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Screenshot 1](assets/flutter1.png)  
 ![Screenshot 2](assets/flutter2.png)  
@@ -21,10 +21,10 @@ A simple and practical Flutter Todo application.
 
 ---
 
-## 💻 How to Run
+<!-- ## 💻 How to Run
 
 1. Install Flutter and VS Code or Android Studio.
 2. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo_app.git
+git clone https://github.com/your-username/todo_app.git -->
 
