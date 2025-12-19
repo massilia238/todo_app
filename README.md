@@ -13,13 +13,16 @@ A simple and practical Flutter Todo application.
 
 ---
 
+
 ##  Screenshots
 
-![Screenshot 1](assets/flutter1.png)  
-![Screenshot 2](assets/flutter2.png)  
-![Screenshot 3](assets/flutter3.png)  
-
----
+<table>
+<tr>
+  <td><img src="assets/image1.png" width="200"></td>
+  <td><img src="assets/image2.png" width="200"></td>
+  <td><img src="assets/image3.png" width="200"></td>
+</tr>
+</table>
 
 <!-- ## 💻 How to Run
 
