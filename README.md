@@ -1,16 +1,30 @@
-# todo_app
+# 📝 Todo App
 
-A new Flutter project.
+A simple and practical Flutter Todo application.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Show a list of tasks (Todos)
+- Navigate to a task detail page
+- Clean and user-friendly interface
+- Can be extended with local storage or GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![Screenshot 1](assets/flutter1.png)  
+![Screenshot 2](assets/flutter2.png)  
+![Screenshot 3](assets/flutter3.png)  
+
+---
+
+## 💻 How to Run
+
+1. Install Flutter and VS Code or Android Studio.
+2. Clone the repository:
+```bash
+git clone https://github.com/your-username/todo_app.git
+
