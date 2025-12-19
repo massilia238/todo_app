@@ -18,8 +18,8 @@ A simple and practical Flutter Todo application.
 
 ## Screenshots
 
-![Screenshot](assets/flutter1.png)  
-![Screenshot](assets/flutter2.png)  
-![Screenshot](assets/flutter3.png)
+![UI](assets/flutter1.PNG)  
+![UI](assets/flutter2.PNG)  
+![UI](assets/flutter3.PNG)
 
 
