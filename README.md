@@ -18,16 +18,10 @@ A simple and practical Flutter Todo application.
 
 <table>
 <tr>
-  <td><img src="assets/image1.png" width="200"></td>
-  <td><img src="assets/image2.png" width="200"></td>
-  <td><img src="assets/image3.png" width="200"></td>
+  <td><img src="assets/flutter1.png" width="200"></td>
+  <td><img src="assets/flutter2.png" width="200"></td>
+  <td><img src="assets/flutter3.png" width="200"></td>
 </tr>
 </table>
 
-<!-- ## 💻 How to Run
-
-1. Install Flutter and VS Code or Android Studio.
-2. Clone the repository:
-```bash
-git clone https://github.com/your-username/todo_app.git -->
 
